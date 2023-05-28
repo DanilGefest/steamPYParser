@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "steam-price-parser",
+  "private_key_id": "70bf5cb1a8807abd5bee0c8682bfdea9c008bb85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/NPEb/IZ7xurL\n1vjjXtOYTDvDmH5uxBNIpYnP5uCYEpvh05YjZP48FUYSqd2Jn/O6blTnVbOXC+CX\n/GEg2s6oaB/i4YSQy4N6slWaLq02psUm00V8L/+qu5DhAUr8fL22qzHyHgMJ8Pvj\nGcGyJu2CtiNx/Kgfk0/jWIFMmgFFvoJNP65teEbGfa2H9c77a9Ext7kp+g3IbPwj\n7uMq2GHYuh0HI4lQ21yr7U4gBvyLPEyvGVkQPSO73Nzv5VFmQ0tU6jC78v/NM8Vo\ntxTkfYT87tDoK7Yh5aWnqCbiUp2gpxfwAlaq0R/i+XukhbVaIHI3YDdJiL1W2zVS\nO+USuP0HAgMBAAECggEARFVJ09woPcUltWqi8TM7AKNB+pGdob1ePOi4Oz5CRubj\noc3JyuV1fIiHzfS6EUzCQH7cxf4ZXCJpBjgyiBjaoVHxD1bUVyD8YJWqRRtoWO85\n5zm7C/plbyFwUhFxuJFmBYniJCq4oE1o380dLat+12d7fGm0tfAiLVg8gWFKkh84\nzZW7X13DHO9IjTSlSSp17BI0kOg/MB1BQ9pDl486/La+NqtjVdb8amF1JTJeKX7C\nY303HxCNFagCVAAP2JeSDZy3tmx6tZlidOOK7rlLusKl8zW4kgCZsF0uo11Fvpmf\n2UrxlmOxk4iNYm0EFMwIbZs+ttge54oy+iDpSc2MmQKBgQDnEIXtzWurtBCqUrjY\n4Lf+m65mjq8dT55rrBLzZr42VIuRxbRgVKaqHSuVu+Fn5SIf6UihXbFApNQrJeiE\nz92854WmnSNDrLPqioIOmaUuHR5us+CdJV7EFHmEvymjpQsh/rgjB5rdcgebxzge\nvP/G0Rk44on8enrHlticKOYeuQKBgQDT10sq1m+jbm5qzchFebntFfjgdkkNh/qB\nODDZD4Q/Eiliv99x/CoBSe/B+ELFZ3fPIa/219wpaYL96tE9I4hsADmhODo1khyT\nc/jEy86iR9ZdlRa02P29Hi0yLfXDHtalJ0VDOcmsr12JgXmFm8mUzjArC6MwX6x4\nJ97eAkgZvwKBgCykfpvBUoosEgQ2U0xjrmjcv0dFTgQFu//lkQvB0AJDN2wEnKL3\n9/NqC1+0mwottPghZEz5AyQQNIXZnyD54Ed9G89jEMskdOZduF8FxGoyagzNaBo0\nfCi6I/hHzs21N39r7TunXn5mZ53rUaZusaRCBfN9oVdMeqhRNqyFImDRAoGATaX+\noWcUaJ1Tz8Y6AG1L30FMhkoVIOaUxcSo8wci/FNV5CJcbtV1OB+3yCuNnfn9CmlY\nrGwXAP7xyszFgVmC6cNzXErV20kBPHMn3kquJQGb65V4SzW2XBmxi1EZYjnth3/L\nfYazC58D9CEHQBgIXYjuUvjjChonh6tln47KitUCgYAp/MgIt/I8N8FtdYsNJcFI\nae7UdR7EKH2kBRyn3/vPrHFmjKt/q9V7PRQ4Bt2gs+y9Ti8LMAKDzIukTKwiWQR2\nXs5f9KhxOkUT1TcCFfFs7fZKJezmZNtmCBEtHDqkY4DQcpRTwrgVQPTD19+akAFe\n13PgOE+f1FWfzWbOlq/Slg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "danilzemelya@steam-price-parser.iam.gserviceaccount.com",
+  "client_id": "106970506859882298575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/danilzemelya%40steam-price-parser.iam.gserviceaccount.com"
+}
